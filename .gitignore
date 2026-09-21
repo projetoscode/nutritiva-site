@@ -9,3 +9,4 @@
 # Local dev
 serve.log
 .DS_Store
+.claude/
