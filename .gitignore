@@ -1,0 +1,11 @@
+# Reference clone (not part of the deployed site)
+/site-insp/
+
+# Original raw assets (already copied/organized into assets/)
+/img/
+/videos/
+/logo/
+
+# Local dev
+serve.log
+.DS_Store
